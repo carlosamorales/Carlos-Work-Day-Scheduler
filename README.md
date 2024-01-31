@@ -39,8 +39,7 @@ THEN the saved events persist
 ## Usage
 
 
-![image](https://github.com/carlosamorales/Carlos-Timed-Quiz/assets/7796766/1a39fe15-54bf-4beb-9b20-3c7dd6642540)
-
+![image](https://github.com/carlosamorales/Carlos-Work-Day-Scheduler/assets/7796766/93036d1f-b3c5-448e-8904-bbdac2762d7e)
 
 
 
