@@ -1,4 +1,4 @@
-# Carlos-Timed-Quiz
+# Carlos-Work-Day-Scheduler
 ## AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
@@ -22,27 +22,25 @@ THEN the saved events persist
 
 ## Description
 
-This project is a web-based coding quiz designed to test users' knowledge of JavaScript. The quiz is implemented using HTML, CSS, and JavaScript. It provides a user-friendly interface with features such as a timer, multiple-choice questions, scoring, and the ability to save and view high scores.
 
 ### What:
-The provided JavaScript code implements the logic for a coding quiz. The quiz consists of multiple-choice questions on JavaScript, and it has features such as a timer, scoring, question navigation, and the ability to save initials and scores.
+The goal is to develop a daily planner web application that allows employees with busy schedules to manage their time effectively by adding important events throughout the day. The application will display the current day at the top of the calendar and present time blocks for standard business hours from 9 am to 5 pm. Each time block will be color-coded to indicate whether it is in the past, present, or future. Users will be able to enter events by clicking into a time block and save them using a save button. The saved events will persist even after refreshing the page, utilizing local storage for data persistence.
 
 ### Why:
-The purpose of this coding quiz is to assess the user's knowledge of JavaScript. It follows a set of predefined rules and functionalities, such as starting a timer when the quiz begins, deducting time for incorrect answers, presenting questions one at a time, and ending the quiz when all questions are answered or the timer reaches zero. Users are then given the opportunity to save their initials and scores.
+The purpose of this project is to provide employees with a user-friendly tool to organize their daily tasks and appointments efficiently. By having a visual representation of their schedule and the ability to save events, users can easily manage their time, prioritize tasks, and stay productive throughout the day.
 
 ### How:
-The JavaScript code achieves this by defining an array of quiz questions with multiple-choice answers. It utilizes event listeners to respond to user interactions, such as starting the quiz, answering questions, saving scores, and viewing high scores. The code dynamically updates the HTML to display questions, answer options, and relevant messages. The timer is implemented using JavaScript intervals, and the scoring system evaluates the user's performance based on correct answers and remaining time. The user's initials and scores are stored in the browser's local storage for future retrieval. The code also includes functionality to reset the quiz and clear high scores.
+The application will be developed using HTML, CSS, and JavaScript, with additional libraries such as Bootstrap for styling and Day.js for handling date and time functionalities. JavaScript will be used to dynamically generate the calendar layout, apply color-coding to time blocks based on the current time, handle user input for events, and manage data persistence through local storage. The user interface will provide an intuitive experience, allowing users to interact with the calendar easily and save their events with a simple click.
 
 
 ## Installation
-**Link to the page:** [Challenge Week04 Carlos-Timed-Quiz](https://carlosamorales.github.io/Carlos-Timed-Quiz/)
+**Link to the page:** [Challenge Week05 Carlos-Work-Day-Scheduler](![image](https://github.com/carlosamorales/Carlos-Work-Day-Scheduler/assets/7796766/93036d1f-b3c5-448e-8904-bbdac2762d7e))
 
 
 ## Usage
 
 
-![image](https://github.com/carlosamorales/Carlos-Timed-Quiz/assets/7796766/1a39fe15-54bf-4beb-9b20-3c7dd6642540)
-
+![image](https://github.com/carlosamorales/Carlos-Work-Day-Scheduler/assets/7796766/93036d1f-b3c5-448e-8904-bbdac2762d7e)
 
 
 
