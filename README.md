@@ -33,7 +33,7 @@ THEN the saved events persist
 
 
 ## Installation
-**Link to the page:** [Challenge Week04 Carlos-Timed-Quiz](https://carlosamorales.github.io/Carlos-Timed-Quiz/)
+**Link to the page:** [Challenge Week05 Carlos-Work-Day-Scheduler](![image](https://github.com/carlosamorales/Carlos-Work-Day-Scheduler/assets/7796766/93036d1f-b3c5-448e-8904-bbdac2762d7e))
 
 
 ## Usage
