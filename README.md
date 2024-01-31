@@ -24,12 +24,13 @@ THEN the saved events persist
 
 
 ### What:
-
+The goal is to develop a daily planner web application that allows employees with busy schedules to manage their time effectively by adding important events throughout the day. The application will display the current day at the top of the calendar and present time blocks for standard business hours from 9 am to 5 pm. Each time block will be color-coded to indicate whether it is in the past, present, or future. Users will be able to enter events by clicking into a time block and save them using a save button. The saved events will persist even after refreshing the page, utilizing local storage for data persistence.
 
 ### Why:
+The purpose of this project is to provide employees with a user-friendly tool to organize their daily tasks and appointments efficiently. By having a visual representation of their schedule and the ability to save events, users can easily manage their time, prioritize tasks, and stay productive throughout the day.
 
 ### How:
-
+The application will be developed using HTML, CSS, and JavaScript, with additional libraries such as Bootstrap for styling and Day.js for handling date and time functionalities. JavaScript will be used to dynamically generate the calendar layout, apply color-coding to time blocks based on the current time, handle user input for events, and manage data persistence through local storage. The user interface will provide an intuitive experience, allowing users to interact with the calendar easily and save their events with a simple click.
 
 
 ## Installation
