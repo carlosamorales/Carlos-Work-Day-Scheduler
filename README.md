@@ -34,7 +34,7 @@ The application will be developed using HTML, CSS, and JavaScript, with addition
 
 
 ## Installation
-**Link to the page:** [Challenge Week05 Carlos-Work-Day-Scheduler]([(https://carlosamorales.github.io/Carlos-Work-Day-Scheduler/)](https://carlosamorales.github.io/Carlos-Work-Day-Scheduler/))
+**Link to the page:** [Challenge Week05 Carlos-Work-Day-Scheduler][(https://carlosamorales.github.io/Carlos-Work-Day-Scheduler/)](https://carlosamorales.github.io/Carlos-Work-Day-Scheduler/)
 
 
 ## Usage
